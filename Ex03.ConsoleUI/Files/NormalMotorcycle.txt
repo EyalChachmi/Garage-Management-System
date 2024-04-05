@@ -1,0 +1,8 @@
+Please enter the owner's name of this vehicle
+Please enter the owner's phone number
+Please enter the tire's manufacturer's name: 
+Please enter the tire's current air pressure (Maximum 29):
+Please enter the model's name:
+Please enter the Engine Capacity:
+Please enter the motorcycle's licence type: Type 0 for A1, 1 for A2, 2 for AB, 3 for B2
+Please enter the amount of the remaining fuel (Maximum 5.8 liters):

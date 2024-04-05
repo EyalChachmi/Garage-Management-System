@@ -5,7 +5,6 @@
         twoDoors = 2,
         threeDoors = 3,
         fourDoors = 4,
-        fiveDoors = 5,
-        noDoors=0
+        fiveDoors = 5
     }
 }

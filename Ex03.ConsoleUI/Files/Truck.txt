@@ -1,0 +1,8 @@
+Please enter the owner's name of this vehicle
+Please enter the owner's phone number
+Please enter the tire's manufacturer's name: 
+Please enter the tires's current air pressure (Maximum 28):
+Please enter the model's name:
+Does the truck transporting hazardous materials?: choose only between (True / False)
+Please enter the amount of cargo in kg
+Please enter the amount of the remaining fuel (Maximum 110 liters):

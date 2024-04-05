@@ -5,7 +5,6 @@
         A1,
         A2,
         AB,
-        B2,
-        noLicense
+        B2
     }
 }

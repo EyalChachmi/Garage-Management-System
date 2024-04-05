@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ex03_01.Battery">
+    <Position X="17" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAgAAAAAAAAAAEAAAAAAAAAAAAAAAEABAAAAAAAAA=</HashCode>
+      <FileName>Battery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.Car">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAQAFAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.ElectricCar">
+    <Position X="1" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ElectricCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.ElectricMotorcycle">
+    <Position X="7.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ElectricMotorcycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.EnergyType">
+    <Position X="18.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAQAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>EnergyType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.Fuel">
+    <Position X="19.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAFAAAAAABAAAAgAEEAABAAAAAAA=</HashCode>
+      <FileName>Fuel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.Garage">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAACAAAAACACAAAAAgEAAgAIAAAAAAA=</HashCode>
+      <FileName>Garage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.Motorcycle">
+    <Position X="9" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAFAAAAIAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Motorcycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.NormalCar">
+    <Position X="3.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>NormalCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.NormalMotorcycle">
+    <Position X="10.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>NormalMotorcycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.Tire">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAACEAAQACAIBAAAAAAAAQAgAAAAAAAA=</HashCode>
+      <FileName>Tire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.Truck">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAEAAAAAAAI=</HashCode>
+      <FileName>Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.ValueOutOfRangeException">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ValueOutOfRangeException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.Vehicle">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQRAAAAAAAAAAFAAAAEAAACgAgAIAAIABQEAACAgA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex03_01.VehicleFactory">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VehicleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Ex03_01.eCarColor">
+    <Position X="17.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAAABAAAAAAAAAAAACAAEAA=</HashCode>
+      <FileName>eCarColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Ex03_01.eCarDoor">
+    <Position X="19.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAoAAAAACAAAAAAAAAAQAA=</HashCode>
+      <FileName>eCarDoor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Ex03_01.eFuelType">
+    <Position X="19.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>eFuelType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Ex03_01.eLicense">
+    <Position X="16" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAEACAAAAAAABAAAAAAAAAAI=</HashCode>
+      <FileName>eLicense.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Ex03_01.eVehicleCondition">
+    <Position X="17.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAgAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>eVehicleCondition.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

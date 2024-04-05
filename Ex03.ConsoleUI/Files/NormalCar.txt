@@ -1,0 +1,8 @@
+Please enter the owner's name of this vehicle
+Please enter the owner's phone number
+Please enter the tire's manufacturer's name: 
+Please enter the tire's current air pressure (Maximum 30):
+Please enter the model's name:
+Please enter the car color! Type 0 for Blue, 1 for White, 2 for Red, 3 for Yellow
+Please enter the car doors number! Select and type only of this following numbers: (2,3,4,5)
+Please enter the amount of the remaining fuel (Maximum 58 liters):
